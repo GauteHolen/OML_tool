@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: OML_tool
-Version: 0.1
-Home-page: https://github.com/GauteHolen/OML_tool
-Author: Gaute Holen
-Author-email: gaute.ah@gmail.com
-License: MIT
-Requires-Dist: numpy
