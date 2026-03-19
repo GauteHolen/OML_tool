@@ -1,3 +1,5 @@
+README.md
+pyproject.toml
 setup.py
 OML_tool/OML.py
 OML_tool/__init__.py

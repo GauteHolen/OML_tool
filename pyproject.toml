@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "OML_tool"
+version = "0.1.0"
+description = "OML currents and IV characteristics for spherical and cylindrical probes"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [
+  { name = "Gaute Holen", email = "gaute.ah@gmail.com" }
+]
+dependencies = [
+  "numpy"
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Topic :: Scientific/Engineering"
+]
+
+[project.urls]
+Homepage = "https://github.com/GauteHolen/OML_tool"
+
+[tool.setuptools.packages.find]
+include = ["OML_tool*"]

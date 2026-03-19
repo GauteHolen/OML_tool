@@ -1,2 +1,8 @@
 *.egg-info/
 *.pyc
+__pycache__/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.DS_Store

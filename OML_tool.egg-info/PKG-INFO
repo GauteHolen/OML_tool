@@ -1,11 +1,20 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: OML_tool
-Version: 0.1
-Home-page: https://github.com/GauteHolen/OML_tool
-Author: Gaute Holen
-Author-email: gaute.ah@gmail.com
-License: MIT
+Version: 0.1.0
+Summary: OML currents and IV characteristics for spherical and cylindrical probes
+Author-email: Gaute Holen <gaute.ah@gmail.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/GauteHolen/OML_tool
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering
 Requires-Python: >=3.9
+Description-Content-Type: text/markdown
 Requires-Dist: numpy
 
 # OML Tool for probe currents and IV characteristics
