@@ -1,1 +1,1 @@
-from .OML import I_cylinder, I_sphere, I0_cylinder, I0_sphere
+from .OML import I_cylinder, I_sphere, I0_cylinder, I0_sphere, I0_tot_cylinder, I0_tot_sphere, I_tot_cylinder, I_tot_sphere

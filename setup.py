@@ -6,6 +6,7 @@ setup(
    license='MIT',
    author='Gaute Holen',
    author_email='gaute.ah@gmail.com',
+   python_requires='>=3.9',
    long_description=open('README.md').read(),
    url='https://github.com/GauteHolen/OML_tool',
    install_requires=[
